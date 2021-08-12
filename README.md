@@ -112,10 +112,10 @@
 
 ## Useful Tuya Links
 	
-- [Tuya IOT Platform](https://auth.tuya.com/?_source=74d5077e27883be4d081e6bb191e1b91)
+- [Tuya IOT Platform](https://auth.tuya.com/?_source=0b8a6774fa0c44439e1a5cfc78014008)
 - [TUYA v2 GitHub](https://github.com/tuya/tuya-home-assistant)
 - [TUYA v2 RELEASES](https://github.com/tuya/tuya-home-assistant/releases)
-- [TUYA v2 BETA](https://pages.tuya.com/develop/HomeAssistantBetaTest_V2?_source=0f830a64066b550ff0090b23add28444)
+- [TUYA v2 BETA](https://pages.tuya.com/develop/HomeAssistantBetaTest_V2?_source=6c3f2f7d42d48f818a492df7cdfdcc34)
 - [TUYA DRIVER VOTING](https://github.com/tuya/tuya-home-assistant/discussions/86)
 - [TUYA v2 ISSUES](https://github.com/tuya/tuya-home-assistant/issues)
 
