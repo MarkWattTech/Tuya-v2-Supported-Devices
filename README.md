@@ -1,5 +1,5 @@
   <br>
-  <h1 align="center">Mark Watt Tech - Tuya-v2-Supported-Devices</h1>
+  <h1 align="center">Mark Watt Tech - Tuya-v2 Supported Products</h1>
   <br>
 
  <h1 align="center">
