@@ -81,6 +81,8 @@
     </tr>
 ```
 
+<b> Just replace the bits of text between the td's </b>
+
 &nbsp;
 <a name="about"></a>
 # About This Project
