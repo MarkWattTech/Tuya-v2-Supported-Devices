@@ -1,7 +1,7 @@
 ---
 name: Product Removal Request
 about: Request a product be removed from the list
-title: PBT Product Removal Request
+title: PBT Product Removal Request - <Product Name>
 labels: PBT Removal Request
 assignees: MarkWattTech
 
