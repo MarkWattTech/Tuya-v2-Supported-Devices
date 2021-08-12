@@ -22,15 +22,20 @@
 </div>
 </br>
 
+# View Known Compatible Device List
+<p> <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Known-Devices.md" >Show me the List!</a>.</p>
+&nbsp;
 
 
 <a name="products"></a>
 # Submitting PBT Products
 ## Before Submitting PBT Products
 <p>Before submitting a device please ensure it is working as expected and has full capability and functionality. If it doesn't please open and issue for it with Tuya <a href="https://github.com/tuya/tuya-home-assistant" target="_blank">here</a>.</p>
+&nbsp;
 
 ## Submit Products Now!
 <p>Got a PBT product you want to add to the list? <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Submit it Now!</a></p>
+&nbsp;
 
 ## How To Submit PBT Products
 <p> Their are <b>3</b> ways you can submit a PBT issue.</p>
