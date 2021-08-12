@@ -26,15 +26,18 @@
 
 <a name="products"></a>
 # Submitting PBT Products
-## Before Submitting PBT Devices
+## Before Submitting PBT Products
 <p>Before submitting a device please ensure it is working as expected and has full capability and functionality. If it doesn't please open and issue for it with Tuya <a href="https://github.com/tuya/tuya-home-assistant" target="_blank">here</a>.</p>
 
-## How To Submit PBT Devices
+## Submit Products Now!
+<p>Got a PBT product you want to add to the list? <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Submit it Now!</a></p>
+
+## How To Submit PBT Products
 <p> Their are <b>3</b> ways you can submit a PBT issue.</p>
 
-* Email me the product you want adding with all of the needed info (see below)
-* Create a pull request directly adding your product
-* Create an issue using the new product template
+* <a href="mailto:markwatttech@gmail.com">Email Me</a> the product you want adding with all of the needed info (see below)
+* <b>Create a pull request</b> directly adding your product - <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/compare">Create PR</a>
+* <b>Create an issue</b> using the new product template - <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Create Issue</a>
 
 <p> Creating an issue with the New PBT Product Template will be the quickest. You will just need to enter the needed info and press submit.</p>
 &nbsp;
@@ -53,6 +56,9 @@
 
 <p> In the submission you can also fill the infor directly to the html row.</p>
 <p><b>(I may automate the process and have something pull the issue and add it to the document in the future so this would be handy).</b> </p>
+
+## What is a PBT Product?
+<p> A PBT product is a <b>"Powered By Tuya"</b> product. It is a product that utilizes the Tuya Cloud service and can usually be identified by the Tuya logo or Powered by Tuya Logo (sometimes this logo is only on the packaging of a product).</p> If it uses the Tuya Cloud, it's PBT!
 
 &nbsp;
 <p> Below is an example of the HTML table row info which is in the New PBT Product Template.</p>
