@@ -12,5 +12,13 @@
 	  
 	  
 	  
-<h4 align="center">A collection of all of the known working Tuya v2 Devices</a>.</h4>
+<h2 align="center">A collection of known working PBT Products that are compatible with Home Assistant and the Tuya-v2 integration</a>.</h2>
+
+**What is this Project ?**
+<p>It's just a place to capture PBT product that are working with Tuya-v2 and Home Assistant to help user check if their devices are compatible, and also to help with buying new devices.</p>
+</br>
+
+**DISCLAIMER**
+<p>I am not associated with Home Assistant or Tuya, and do not own or maintain any of therir hardware, software or other resources.</p>
+
 
