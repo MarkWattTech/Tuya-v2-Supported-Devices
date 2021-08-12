@@ -1,11 +1,11 @@
-# Tuya v2 Known Supported Devices
+# Tuya v2 Known Supported Products
 Below is a list of known working PBT (Powered By Tuya) devices that are compatible with the Latest Version of Home Assistant and the Latest Version of the Tuya-v2 integration.
 
 * You can find more information on the Tuya v2 GitHub [here](https://github.com/tuya/tuya-home-assistant "Official Tuya-v2 integration")
 
-Got a PBT device that isn't in the list?
-* Create a pull request with your added device and I will add it to the list
-* Create an issue with your device details and I will add it to the list.
+## Got a PBT Product that isn't in the list?
+* Create an issue with your product details and I will add it to the list <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Submit Products Now!</a></p>
+&nbsp;
 
 </br>
 
