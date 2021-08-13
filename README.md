@@ -23,7 +23,7 @@
 </br>
 
 # View Known Compatible Device List
-<p> <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Known-Devices.md" >Show me the List!</a>.</p>
+<h2> <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Known-Devices.md" >Show me the List!</a></h2>
 &nbsp;
 
 
