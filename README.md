@@ -101,6 +101,8 @@
 
 ## Is this supported by Tuya?
 <p>I have been speaking to Tuya about creating something like this. Initially a <a href="https://github.com/tuya/tuya-home-assistant/discussions/309" target="_blank">Discussion</a> was created on the official Tuya-v2 Git, but it didn't really take off. I suggested a page sort of like this, and Tuya was happy for me to create this and they would direct to it.</p>
+
+<p> This list is now being directed to by Tuya! </p>
 </br>
 
 <a name="tuya"></a>
