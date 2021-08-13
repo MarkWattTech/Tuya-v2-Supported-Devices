@@ -63,7 +63,7 @@
 <p><b>(I may automate the process and have something pull the issue and add it to the document in the future so this would be handy).</b> </p>
 
 ## What is a PBT Product?
-<p> A PBT product is a <b>"Powered By Tuya"</b> product. It is a product that utilizes the Tuya Cloud service and can usually be identified by the Tuya logo or Powered by Tuya Logo (sometimes this logo is only on the packaging of a product).</p> If it uses the Tuya Cloud, it's PBT!
+<p>PBT (<b>Powered by Tuya</b>) is an interconnected and intelligent label. Products with this label can be easily controlled with one app with other products of different brands and categories. The PBT label applies to all trial or mass-produced products that use Tuya technologies and can connect to the Tuya cloud.If you want to know more about PBT, check out the <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Tuya developer page</a>.</p>
 
 &nbsp;
 <p> Below is an example of the HTML table row info which is in the New PBT Product Template.</p>
