@@ -137,6 +137,8 @@
 ## Who am I ?
 <p>I'm a Smart Home and Home Assistant Enthusiast! </p><p>By day I am a software developer, and by night I create video content for <a href="https://youtube.com/c/markwatttech" target="_blank">YouTube</a> based on Smart Home, Tech and Home Assistant. </p>
 
+&nbsp;
+
 ## Where Can I Be Found?
 <p> You can catch me on the following social media platforms! </p>
 
