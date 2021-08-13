@@ -62,6 +62,8 @@
 <p> In the submission you can also fill the infor directly to the html row.</p>
 <p><b>(I may automate the process and have something pull the issue and add it to the document in the future so this would be handy).</b> </p>
 
+&nbsp;
+
 ## What is a PBT Product?
 <p>PBT (<b>Powered by Tuya</b>) is an interconnected and intelligent label. Products with this label can be easily controlled with one app with other products of different brands and categories. The PBT label applies to all trial or mass-produced products that use Tuya technologies and can connect to the Tuya cloud.If you want to know more about PBT, check out the <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Tuya developer page</a>.</p>
 
@@ -102,7 +104,7 @@
 ## Is this supported by Tuya?
 <p>I have been speaking to Tuya about creating something like this. Initially a <a href="https://github.com/tuya/tuya-home-assistant/discussions/309" target="_blank">Discussion</a> was created on the official Tuya-v2 Git, but it didn't really take off. I suggested a page sort of like this, and Tuya was happy for me to create this and they would direct to it.</p>
 
-<p> This list is now being directed to by Tuya! </p>
+<p><b> This list is now being directed to by Tuya! </b></p>
 </br>
 
 <a name="tuya"></a>
