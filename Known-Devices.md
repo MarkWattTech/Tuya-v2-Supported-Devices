@@ -87,3 +87,30 @@ Below is a list of known working PBT (Powered By Tuya) devices that are compatib
     </tr>
   </tbody>
 </table>
+
+<h1>Energy</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Brand</th>
+      <th scope="col">Model</th>
+      <th scope="col">Category</th>
+      <th scope="col">Category Code</th>
+      <th scope="col">Product Links</th>
+      <th scope="col">Product Description</th>
+      <th scope="col">Image of Product</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zmai-90 </td>
+      <td>zmai-90 </td>
+      <td>Smart Electricity Meter</td>
+      <td>zndb</td>
+      <td>https://www.aliexpress.com/item/4001053795800.html?spm=a2g0o.productlist.0.0.29283155WwcdGn</td>
+      <td>WiFi Smart Switch Energy Meter</td>
+      <td><img src="http://ae01.alicdn.com/kf/Hfe2166313e554b359b6df1b35b0c7278r.jpg" alt="Zmai-90" width="200"></a></td>
+    </tr>
+  </tbody>
+</table>
+
