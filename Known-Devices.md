@@ -7,9 +7,6 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
 * Create an issue with your product details and I will add it to the list <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Submit Products Now!</a></p>
 &nbsp;
 
-</br>
-
-
 <h1>Lighting</h1>
 <table class="table">
   <thead>
@@ -67,6 +64,32 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.aliexpress.com/item/4000478798085.html</td>
       <td>16A wifi smart socket with power monitoring (Note: uses non-ESP chipset, cannot be flashed to ESPhome or Tasmota)</td>
       <td><img src="https://ae01.alicdn.com/kf/H807c59e9cae447aea9a3c87a76f7b87aF/Smart-Plug-WiFi-Socket-EU-16A-Power-Monitor-Timing-Function-Tuya-SmartLife-APP-Control-Works-With.jpg_Q90.jpg"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Security & Sensors</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Brand</th>
+      <th scope="col">Model</th>
+      <th scope="col">Category</th>
+      <th scope="col">Category Code</th>
+      <th scope="col">Product Links</th>
+      <th scope="col">Product Description</th>
+      <th scope="col">Image of Product</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Avatto</td>
+      <td>D06</td>
+      <td>Door Window Sensor</td>
+      <td>mcs</td>
+      <td>https://www.aliexpress.com/item/4000790781739.html</td>
+      <td>WIFI door or window opening sensor operated by 2 AA batteries.</td>
+      <td><img src="https://ae01.alicdn.com/kf/H87ba7222b6fa41e591860fcbc1f40080j/AVATTO-Tuya-WiFi-Door-Sensor-Smart-Door-Open-Closed-Detectors-Smartlife-APP-Wifi-Window-Sensor-Work.jpg_640x640.jpg"></a></td>
     </tr>
   </tbody>
 </table>
