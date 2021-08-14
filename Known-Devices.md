@@ -30,6 +30,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></a></td>
     </tr>
+    <tr>
+      <td>Avatar controls</td>
+      <td>ALS15L</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.it/Intelligence-Compatibile-Avatar-Controls-Multicolore/dp/B07W6Z6KPG</td>
+      <td>A RBGW B14 bulb</td>
+      <td><img src="https://www.avatarcontrols.com/upfile/2019/07/20190709175532_974.jpg"></td>
+    </tr>
   </tbody>
 </table>
 
