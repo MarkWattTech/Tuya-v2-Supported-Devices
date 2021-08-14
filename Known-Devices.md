@@ -59,6 +59,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> A smart plug</td>
       <td><img src="https://m.media-amazon.com/images/I/5189B6WP6OS._AC_SX425_.jpg" alt="Teckin Smart Plug" width="200"></a></td>
     </tr>
+      <tr>
+      <td>N/A</td>
+      <td>EU WiFi Plug</td>
+      <td>Socket</td>
+      <td>cz</td>
+      <td>https://www.aliexpress.com/item/4000478798085.html</td>
+      <td>16A wifi smart socket with power monitoring (Note: uses non-ESP chipset, cannot be flashed to ESPhome or Tasmota)</td>
+      <td><img src="https://ae01.alicdn.com/kf/H807c59e9cae447aea9a3c87a76f7b87aF/Smart-Plug-WiFi-Socket-EU-16A-Power-Monitor-Timing-Function-Tuya-SmartLife-APP-Control-Works-With.jpg_Q90.jpg"></a></td>
+    </tr>
   </tbody>
 </table>
 
