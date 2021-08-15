@@ -5,6 +5,10 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
 
 ## Got a PBT Product that isn't in the list?
 * Create an issue with your product details and I will add it to the list <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Submit Products Now!</a></p>
+
+
+## Available from more than one vendor?
+* <p> If their is more than one loaction to buy the product, include more than one link! Alternatley if a product has been added that you want to add a link for, open a change issue</p>
 &nbsp;
 
 <h1>Lighting</h1>
