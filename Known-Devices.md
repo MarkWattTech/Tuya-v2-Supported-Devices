@@ -19,6 +19,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
     </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>RGB e14</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-multicolor-ledlamp2/</td>
+      <td>RGB E14 Bulb </td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/64/53/3004164_8712879146582-111_02.png"</td>
+    </tr>
   </thead>
   <tbody>
     <tr>
