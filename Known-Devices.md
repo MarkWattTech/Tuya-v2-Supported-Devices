@@ -19,15 +19,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
     </tr>
-    <tr>
-      <td>LSC (Action)</td>
-      <td>RGB e14</td>
-      <td>Light</td>
-      <td>dj</td>
-      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-multicolor-ledlamp2/</td>
-      <td>RGB E14 Bulb </td>
-      <td><img src="https://www.action.com/globalassets/cmsarticleimages/64/53/3004164_8712879146582-111_02.png"</a></td>
-    </tr>
+   
   </thead>
   <tbody>
     <tr>
@@ -39,6 +31,24 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></a></td>
     </tr>
+     <tr>
+      <td>LSC (Action)</td>
+      <td>RGB e14</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-multicolor-ledlamp2/</td>
+      <td>RGB E14 Bulb </td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/64/53/3004164_8712879146582-111_02.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>GU10 Ambiance</td>
+      <td>light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-ledlamp/</td>
+      <td>Cheap Ambiance GU10 bulb</td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/76/02/3000267_8712879146223-111.png" width="200"></td>
+    </tr>
     <tr>
       <td>LSC (Action)</td>
       <td>RGB Wall light</td>
@@ -46,7 +56,52 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-wandlamp/</td>
       <td>RGB outside wall light </td>
-      <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/32/3005447_8712879149101-111_01.png?"</a></td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/32/3005447_8712879149101-111_01.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>E27 Small bulb</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-filament-ledlamp2//</td>
+      <td>E27 Small Filament bulb </td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/28/58/3001686_8712879146605-111.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>LedSpot</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-led-spot/</td>
+      <td>Cheap RGB smart spot</td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/37/3005365_8712879149095-111_01.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>E14 Filament</td>
+      <td>light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-filament-ledlamp3/</td>
+      <td> E14 Small filament bulb</td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/66/12/3001702_8712879146612-111.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC Action</td>
+      <td>Garden pole</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-led-tuinlamp/</td>
+      <td>Cheap RGB Garden pole </td>
+     <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/39/3005364_8712879149088-111_01.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>E27 Filament</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-filament-ledlamp4/</td>
+      <td>Big RGB Bulb </td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/00/25/3001700_8712879146629-111.png" width="200"></td>
     </tr>
     <tr>
       <td>Avatar controls</td>
@@ -55,7 +110,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.amazon.it/Intelligence-Compatibile-Avatar-Controls-Multicolore/dp/B07W6Z6KPG</td>
       <td>A RBGW B14 bulb</td>
-      <td><img src="https://www.avatarcontrols.com/upfile/2019/07/20190709175532_974.jpg"></td>
+      <td><img src="https://www.avatarcontrols.com/upfile/2019/07/20190709175532_974.jpg" width="200"></td>
     </tr>
   </tbody>
 </table>
@@ -81,7 +136,16 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>cz</td>
       <td>https://www.amazon.co.uk/Outlet-Google-Wireless-Control-Required/dp/B0993L89QQ</td>
       <td> A smart plug</td>
-      <td><img src="https://m.media-amazon.com/images/I/5189B6WP6OS._AC_SX425_.jpg" alt="Teckin Smart Plug" width="200"></a></td>
+      <td><img src="https://m.media-amazon.com/images/I/5189B6WP6OS._AC_SX425_.jpg" alt="Teckin Smart Plug" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>The model for device (if applicable)</td>
+      <td> Socket </td>
+      <td> cz </td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-stekker-/</td>
+      <td>Cheap Wifi smart socket</td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/79/98/2578685_8712879142782-111.png" width="200"></td>
     </tr>
       <tr>
       <td>N/A</td>
@@ -90,7 +154,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>cz</td>
       <td>https://www.aliexpress.com/item/4000478798085.html</td>
       <td>16A wifi smart socket with power monitoring (Note: uses non-ESP chipset, cannot be flashed to ESPhome or Tasmota)</td>
-      <td><img src="https://ae01.alicdn.com/kf/H807c59e9cae447aea9a3c87a76f7b87aF/Smart-Plug-WiFi-Socket-EU-16A-Power-Monitor-Timing-Function-Tuya-SmartLife-APP-Control-Works-With.jpg_Q90.jpg"></a></td>
+      <td><img src="https://ae01.alicdn.com/kf/H807c59e9cae447aea9a3c87a76f7b87aF/Smart-Plug-WiFi-Socket-EU-16A-Power-Monitor-Timing-Function-Tuya-SmartLife-APP-Control-Works-With.jpg_Q90.jpg" width="200"></td>
     </tr>
   </tbody>
 </table>
@@ -116,7 +180,16 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>mcs</td>
       <td>https://www.aliexpress.com/item/4000790781739.html</td>
       <td>WIFI door or window opening sensor operated by 2 AA batteries.</td>
-      <td><img src="https://ae01.alicdn.com/kf/H87ba7222b6fa41e591860fcbc1f40080j/AVATTO-Tuya-WiFi-Door-Sensor-Smart-Door-Open-Closed-Detectors-Smartlife-APP-Wifi-Window-Sensor-Work.jpg_640x640.jpg"></a></td>
+      <td><img src="https://ae01.alicdn.com/kf/H87ba7222b6fa41e591860fcbc1f40080j/AVATTO-Tuya-WiFi-Door-Sensor-Smart-Door-Open-Closed-Detectors-Smartlife-APP-Wifi-Window-Sensor-Work.jpg_640x640.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td>SONOFF</td>
+      <td>snzb - 03</td>
+      <td>pir</td>
+      <td>PIR Detector</td>
+      <td>https://www.ebay.es/itm/324235275970</td>
+      <td> Zigbee PIR Detector</td>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfQhV9KeujQGyBY29iklZbM3aT0PH1wH4Jg&usqp=CAU<" width="200"></td>
     </tr>
   </tbody>
 </table>
