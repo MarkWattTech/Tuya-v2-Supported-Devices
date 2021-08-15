@@ -11,6 +11,58 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
 * <p> If their is more than one loaction to buy the product, include more than one link! Alternatley if a product has been added that you want to add a link for, open a change issue</p>
 &nbsp;
 
+<h1>Large Home Appliances</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Brand</th>
+      <th scope="col">Model</th>
+      <th scope="col">Category</th>
+      <th scope="col">Category Code</th>
+      <th scope="col">Product Links</th>
+      <th scope="col">Product Description</th>
+      <th scope="col">Image of Product</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Igenix</td>
+      <td>IG9909WIFI</td>
+      <td>Air conditioner</td>
+      <td>kt</td>
+      <td>https://www.amazon.co.uk/dp/B095HTVV36</td>
+      <td> Air Conditioning Unit</td>
+       <td><img src="https://www.igenix.co.uk/wp-content/uploads/2021/05/IG9909WIFI_A.jpg" width="200"></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Small Home Appliances</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Brand</th>
+      <th scope="col">Model</th>
+      <th scope="col">Category</th>
+      <th scope="col">Category Code</th>
+      <th scope="col">Product Links</th>
+      <th scope="col">Product Description</th>
+      <th scope="col">Image of Product</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zemismart</td>
+      <td>WiFi</td>
+      <td>Curtain</td>
+      <td>cl</td>
+      <td>https://www.zemismart.com/products/m515egb/</td>
+      <td> WiFi controlled Blind motor</td>
+      <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 <h1>Lighting</h1>
 <table class="table">
   <thead>
@@ -35,6 +87,14 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></a></td>
     </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>A60 CCT</td>
+      <td>Lights</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-ledlamp3//</td>
+      <td>Cheap Ambiance E27 bulb </td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/75/96/3000272_8712879146254-111.png" width="200"></a></td>
      <tr>
       <td>LSC (Action)</td>
       <td>RGB e14</td>
@@ -52,6 +112,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-ledlamp/</td>
       <td>Cheap Ambiance GU10 bulb</td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/76/02/3000267_8712879146223-111.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td> neon ledstrip</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-neon-ledstrip/</td>
+      <td>Smart RGB Neon Ledstrip</td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/23/80/3005457_8712879149163-111_01.png" width="200"></td>
     </tr>
     <tr>
       <td>LSC (Action)</td>
@@ -198,31 +267,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
   </tbody>
 </table>
 
-<h1>Small Home Appliances</h1>
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">Brand</th>
-      <th scope="col">Model</th>
-      <th scope="col">Category</th>
-      <th scope="col">Category Code</th>
-      <th scope="col">Product Links</th>
-      <th scope="col">Product Description</th>
-      <th scope="col">Image of Product</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Zemismart</td>
-      <td>WiFi</td>
-      <td>Curtain</td>
-      <td>cl</td>
-      <td>https://www.zemismart.com/products/m515egb/</td>
-      <td> WiFi controlled Blind motor</td>
-      <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
-    </tr>
-  </tbody>
-</table>
+
 
 <h1>Energy</h1>
 <table class="table">
