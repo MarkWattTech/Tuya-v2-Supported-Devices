@@ -26,7 +26,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-multicolor-ledlamp2/</td>
       <td>RGB E14 Bulb </td>
-      <td><img src="https://www.action.com/globalassets/cmsarticleimages/64/53/3004164_8712879146582-111_02.png"</td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/64/53/3004164_8712879146582-111_02.png"</a></td>
     </tr>
   </thead>
   <tbody>
@@ -38,6 +38,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.amazon.co.uk/gp/product/B07DN4NLKM/</td>
       <td> A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></a></td>
+    </tr>
+    <tr>
+      <td>LSC (Action)</td>
+      <td>RGB Wall light</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.action.com/nl-nl/p/lsc-smart-connect-wandlamp/</td>
+      <td>RGB outside wall light </td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/32/3005447_8712879149101-111_01.png?"</a></td>
     </tr>
     <tr>
       <td>Avatar controls</td>
