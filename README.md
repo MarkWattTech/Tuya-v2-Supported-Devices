@@ -34,7 +34,7 @@
 &nbsp;
 
 ## Submit Products Now!
-<p>Got a PBT product you want to add to the list? <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Submit it Now!</a></p>
+<p>Got a PBT product you want to add to the list? 
 &nbsp;
 
 ## How To Submit PBT Products
@@ -46,6 +46,11 @@
 
 <p> Creating an issue with the New PBT Product Template will be the quickest. You will just need to enter the needed info and press submit.</p>
 &nbsp;
+
+## Submit Step By Step
+1) <b>Set a Title for submission.</b> It should be New PBT Product Request - XXX (with XXX being the name of your product)
+2) <b>Fill in the Needed information</b> (Shown below)
+3) <b>Remove any unneeded text from the template </b> (It should just contain the product information / filled in html row)
 
 ## Needed Information
 <p> When making a submission please include : </p>
@@ -59,8 +64,13 @@
 * Short description of product
 * Link to image of product
 
-<p> In the submission you can also fill the infor directly to the html row.</p>
+<p> In the submission you can also fill the infornation directly in the html row.</p>
 <p><b>(I may automate the process and have something pull the issue and add it to the document in the future so this would be handy).</b> </p>
+
+## Video Guide
+<p>For the v1.5 Update I created a video which contains a small bit of information on this project. It shows how to complete a basic submission. See video <a href="https://youtu.be/-SQboyRNx54">here</a></p>
+
+[![Tuva v2 Update 1.5](https://img.youtube.com/vi/-SQboyRNx54/0.jpg)](https://youtu.be/-SQboyRNx54 "Tuya v2 Update 1.5")
 
 &nbsp;
 
