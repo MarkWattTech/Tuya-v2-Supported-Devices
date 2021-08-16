@@ -60,6 +60,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> WiFi controlled Blind motor</td>
       <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
     </tr>
+     <tr>
+      <td>Bagotte</td>
+      <td>Bagotte BG800</td>
+      <td>Robot Vaccum</td>
+      <td>sd</td>
+      <td>https://www.bagotte.com/portal/article/index/id/95</td>
+      <td> SA cheap Robot vacuum</td>
+      <td><img src="https://www.bagotte.com/upload/portal/20191219/6fcd32c233fa09f2d2345839c3d3240c.jpg" width="200"></td>
+    </tr>
   </tbody>
 </table>
 
@@ -85,7 +94,16 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.amazon.co.uk/gp/product/B07DN4NLKM/</td>
       <td> A full RBG B22 bulb</td>
-      <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></a></td>
+      <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></td>
+    </tr>
+    <tr>
+      <td>Mirabella Genio</td>
+      <td>9w color downlight</td>
+      <td>Lights</td>
+      <td>dj</td>
+      <td>https://www.kmart.com.au/product/mirabella-genio-9w-led-wi-fi-dimmable-downlight/2754330</td>
+      <td> RGBW Downlight</td>
+      <td><img src="https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/8/42799368-1-f.jpg"></td>
     </tr>
     <tr>
       <td>LSC (Action)</td>
@@ -94,7 +112,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-ledlamp3//</td>
       <td>Cheap Ambiance E27 bulb </td>
-      <td><img src="https://www.action.com/globalassets/cmsarticleimages/75/96/3000272_8712879146254-111.png" width="200"></a></td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/75/96/3000272_8712879146254-111.png" width="200"></td>
      <tr>
       <td>LSC (Action)</td>
       <td>RGB e14</td>
