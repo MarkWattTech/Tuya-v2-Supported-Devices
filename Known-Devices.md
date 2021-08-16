@@ -36,7 +36,6 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
     </tr>
   </tbody>
 </table>
-
 <h1>Small Home Appliances</h1>
 <table class="table">
   <thead>
@@ -71,7 +70,6 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
     </tr>
   </tbody>
 </table>
-
 <h1>Lighting</h1>
 <table class="table">
   <thead>
@@ -84,8 +82,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
     </tr>
-   
-  </thead>
+    </thead>
   <tbody>
     <tr>
       <td>Novostella</td>
@@ -96,6 +93,14 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></td>
     </tr>
+      <tr>
+      <td>LVWIT</td>
+      <td>A60</td>
+      <td>Light</td>
+      <td>dj</td> <td>https://www.amazon.co.uk/dp/B08315XSXS</td>
+      <td>Tuya RGB Smart Bulb B22</td>
+      <td><img src="https://cdn.shopify.com/s/files/1/0257/5790/9044/products/51KDIzDdR2L._AC_SL1300_c92de931-bbb3-4d69-bb7d-f444be165486_997x1066.jpg" width="200"></td>
+    </tr>
     <tr>
       <td>Mirabella Genio</td>
       <td>9w color downlight</td>
@@ -103,8 +108,44 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.kmart.com.au/product/mirabella-genio-9w-led-wi-fi-dimmable-downlight/2754330</td>
       <td> RGBW Downlight</td>
-      <td><img src="https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/8/42799368-1-f.jpg"></td>
+      <td><img src="https://i1.wp.com/ausdroid.net/wp-content/uploads/2019/10/mirabella-wifi-downlight-1.jpg?ssl=1" width="200"></td>
     </tr>
+      <tr>
+      <td>Mirabella Genio</td>
+      <td>E27</td>
+      <td>Lights</td>
+      <td>dj</td>
+      <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-dimmable-5w-led-bulb/2746328</td>
+      <td>Wi-Fi Dimmable 5W G95 ES CCT Filament LED Bulb</td>
+      <td><img src="https://external-preview.redd.it/rT2Ymeu6U4x1esyH741u5qdvhQfu3I4jDr-M4ZOOfEQ.jpg?auto=webp&s=bcee0d4fa64081bb9e59e39d6bee1f66789c9362" width="200"></td>
+    </tr>
+      <tr>
+      <td>Mirabella Genio</td>
+      <td>LED</td>
+      <td>LED Strip</td>
+      <td>dj</td>
+      <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-led-strip-light/2622813</td>
+      <td> Wi-Fi LED 3 metre Strip Light</td>
+      <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I002579-BLISTER-20190624-FOP-HR-min-1024x1024.jpg" width="200"></td>
+    </tr>
+      <tr>
+      <td>Mirabella Genio</td>
+      <td>Outdoor Light</td>
+      <td>Outdoor Spot Lights</td>
+      <td>dj</td>
+      <td>https://www.mirabellagenio.com.au/product-range/mirabella-genio-wi-fi-4-black-spot-light-kit/</td>
+      <td> Wi-Fi 4 Black Spot Light Kit</td>
+      <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I002848-min-1024x960.jpg" width="200"></td>
+    </tr>
+      <tr>
+      <td>Mirabella Genio</td>
+      <td>N/A</td>
+      <td>Icicle Lights</td>
+      <td>dj</td>
+      <td>https://www.mirabellagenio.com.au/product-range/mirabella-genio-wi-fi-200-led-colour-select-icicle-lights/</td>
+      <td> Wi-Fi 200 LED Colour Select Icicle Lights</td>
+       <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I003175-BOX-20200701-3D-HR-min-1024x1024.jpg" width="200"></td>
+      </tr>
     <tr>
       <td>LSC (Action)</td>
       <td>A60 CCT</td>
@@ -247,9 +288,8 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>16A wifi smart socket with power monitoring (Note: uses non-ESP chipset, cannot be flashed to ESPhome or Tasmota)</td>
       <td><img src="https://ae01.alicdn.com/kf/H807c59e9cae447aea9a3c87a76f7b87aF/Smart-Plug-WiFi-Socket-EU-16A-Power-Monitor-Timing-Function-Tuya-SmartLife-APP-Control-Works-With.jpg_Q90.jpg" width="200"></td>
     </tr>
-  </tbody>
-</table>
-
+    </tbody>
+    </table>
 <h1>Security & Sensors</h1>
 <table class="table">
   <thead>
@@ -282,8 +322,38 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td> Zigbee PIR Detector</td>
       <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfQhV9KeujQGyBY29iklZbM3aT0PH1wH4Jg&usqp=CAU<" width="200"></td>
     </tr>
+      <tr>
+      <td>Mirabella Genio</td>
+      <td>N/A</td>
+      <td>Door/Window Sensor</td>
+      <td>mcs</td>
+      <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-door--window-sensor/2622806</td>
+      <td>Smart Wi-Fi Door & Window Sensor</td>
+      <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I002575-BLISTER-20190624-FOP-HR-min-1024x1024.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td>Mirabella Genio</td>
+      <td>N/A</td>
+      <td>Motion Sensor</td>
+      <td>pir</td>
+      <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-motion-sensor/2622811</td>
+      <td>Smart Wi-Fi Motion Sensor</td>
+      <td><img src="https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/3/42769453-2-f.jpg" width="200"></td>
+    </tr>
+     <tr>
+      <td>Mirabella Genio</td>
+      <td>N/A</td>
+      <td>Socket</td>
+      <td>pc</td>
+      <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-double-power-plug-with-usb-ports/3294803</td>
+      <td> Wi-Fi Double Power Plug with USB ports</td>
+      <td><img src="https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/5/42905875-1-f.jpg" width="200"></td>
+    </tr> 
   </tbody>
 </table>
+
+
+
 
 
 
@@ -312,4 +382,3 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
     </tr>
   </tbody>
 </table>
-
