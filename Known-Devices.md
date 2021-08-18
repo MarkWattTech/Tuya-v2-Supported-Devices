@@ -102,6 +102,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td><img src="https://cdn.shopify.com/s/files/1/0257/5790/9044/products/51KDIzDdR2L._AC_SL1300_c92de931-bbb3-4d69-bb7d-f444be165486_997x1066.jpg" width="200"></td>
     </tr>
     <tr>
+      <td>Mekury </td>
+      <td>Smart Wi-Fi Bulb - White</td>
+      <td>Lights</td>
+      <td>dj</td>
+      <td>https://merkuryinnovations.com/collections/smart-home/products/smart-wi-fi-bulb-white</td>
+      <td>White Bulb</td>
+      <td><img src="https://cdn.shopify.com/s/files/1/0406/1855/7605/products/9b4464b1-a7c1-4787-8f29-0ad99cce947f_56df47e4-a63e-41ec-b6f8-e7e9acd8ae1b_2000x.jpg?v=1592503965" width="200"></td>
+    </tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>9w color downlight</td>
       <td>Lights</td>
