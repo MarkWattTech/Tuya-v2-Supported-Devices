@@ -11,6 +11,11 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
 * <p> If their is more than one loaction to buy the product, include more than one link! Alternatley if a product has been added that you want to add a link for, open a change issue</p>
 &nbsp;
 
+
+## When will my device be added to the list?
+* <p> Currently I am manually adding each one and am working on it in small bursts. If you want to take the time to manually create a Pull Request it will be added much quickers as I can review it and pull it in. Your name also gets added to the contributers by GitHub which is also a perk!</p>
+&nbsp;
+
 <h1>Large Home Appliances</h1>
 <table class="table">
   <thead>
