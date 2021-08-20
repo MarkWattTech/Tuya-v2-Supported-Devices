@@ -52,6 +52,8 @@
 2) <b>Fill in the Needed information</b> (Shown below)
 3) <b>Remove any unneeded text from the template </b> (It should just contain the product information / filled in html row)
 
+&nbsp;
+
 ## When will my device be added to the list?
 * <p> Currently I am manually adding each one and am working on it in small bursts. If you want to take the time to manually create a Pull Request it will be added much quicker as I can review it and pull it in. Your name also gets added to the contributers by GitHub which is also a perk!</p>
 &nbsp;
