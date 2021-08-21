@@ -8,12 +8,12 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
 
 
 ## Available from more than one vendor?
-* <p> If their is more than one loaction to buy the product, include more than one link! Alternatley if a product has been added that you want to add a link for, open a change issue</p>
+* <p> If there is more than one location to buy the product, include more than one link! Alternatively if a product has been added that you want to add a link for, open a change issue</p>
 &nbsp;
 
 
 ## When will my device be added to the list?
-* <p> Currently I am manually adding each one and am working on it in small bursts. If you want to take the time to manually create a Pull Request it will be added much quickers as I can review it and pull it in. Your name also gets added to the contributers by GitHub which is also a perk!</p>
+* <p> Currently I am manually adding each one and am working on it in small bursts. If you want to take the time to manually create a Pull Request it will be added much quicker as I can review it and pull it in. Your name also gets added to the contributors by GitHub which is also a perk!</p>
 &nbsp;
 
 <h1>Large Home Appliances</h1>
@@ -67,7 +67,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
      <tr>
       <td>Bagotte</td>
       <td>Bagotte BG800</td>
-      <td>Robot Vaccum</td>
+      <td>Robot Vacuum</td>
       <td>sd</td>
       <td>https://www.bagotte.com/portal/article/index/id/95</td>
       <td> SA cheap Robot vacuum</td>
@@ -255,7 +255,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Light</td>
       <td>dj</td>
       <td>https://www.amazon.it/Intelligence-Compatibile-Avatar-Controls-Multicolore/dp/B07W6Z6KPG</td>
-      <td>A RBGW B14 bulb</td>
+      <td>A RGBW B14 bulb</td>
       <td><img src="https://www.avatarcontrols.com/upfile/2019/07/20190709175532_974.jpg" width="200"></td>
     </tr>
   </tbody>
@@ -392,7 +392,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>zndb</td>
       <td>https://www.aliexpress.com/item/4001053795800.html?spm=a2g0o.productlist.0.0.29283155WwcdGn</td>
       <td>WiFi Smart Switch Energy Meter</td>
-      <td><img src="http://ae01.alicdn.com/kf/Hfe2166313e554b359b6df1b35b0c7278r.jpg" alt="Zmai-90" width="200"></a></td>
+      <td><img src="https://ae01.alicdn.com/kf/Hfe2166313e554b359b6df1b35b0c7278r.jpg" alt="Zmai-90" width="200"></a></td>
     </tr>
   </tbody>
 </table>
