@@ -36,8 +36,8 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Air conditioner</td>
       <td>kt</td>
       <td>https://www.amazon.co.uk/dp/B095HTVV36</td>
-      <td> Air Conditioning Unit</td>
-       <td><img src="https://www.igenix.co.uk/wp-content/uploads/2021/05/IG9909WIFI_A.jpg" width="200"></td>
+      <td>Air Conditioning Unit</td>
+      <td><img src="https://www.igenix.co.uk/wp-content/uploads/2021/05/IG9909WIFI_A.jpg" width="200"></td>
     </tr>
   </tbody>
 </table>
@@ -61,16 +61,16 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Curtain</td>
       <td>cl</td>
       <td>https://www.zemismart.com/products/m515egb/</td>
-      <td> WiFi controlled Blind motor</td>
+      <td>WiFi controlled Blind motor</td>
       <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
     </tr>
-     <tr>
+    <tr>
       <td>Bagotte</td>
       <td>Bagotte BG800</td>
       <td>Robot Vacuum</td>
       <td>sd</td>
       <td>https://www.bagotte.com/portal/article/index/id/95</td>
-      <td> SA cheap Robot vacuum</td>
+      <td>SA cheap Robot vacuum</td>
       <td><img src="https://www.bagotte.com/upload/portal/20191219/6fcd32c233fa09f2d2345839c3d3240c.jpg" width="200"></td>
     </tr>
   </tbody>
@@ -87,7 +87,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
     </tr>
-    </thead>
+  </thead>
   <tbody>
     <tr>
       <td>Novostella</td>
@@ -95,10 +95,10 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Light</td>
       <td>dj</td>
       <td>https://www.amazon.co.uk/gp/product/B07DN4NLKM/</td>
-      <td> A full RBG B22 bulb</td>
+      <td>A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>LVWIT</td>
       <td>A60</td>
       <td>Light</td>
@@ -121,10 +121,10 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Lights</td>
       <td>dj</td>
       <td>https://www.kmart.com.au/product/mirabella-genio-9w-led-wi-fi-dimmable-downlight/2754330</td>
-      <td> RGBW Downlight</td>
+      <td>RGBW Downlight</td>
       <td><img src="https://i1.wp.com/ausdroid.net/wp-content/uploads/2019/10/mirabella-wifi-downlight-1.jpg?ssl=1" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>E27</td>
       <td>Lights</td>
@@ -133,33 +133,33 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Wi-Fi Dimmable 5W G95 ES CCT Filament LED Bulb</td>
       <td><img src="https://external-preview.redd.it/rT2Ymeu6U4x1esyH741u5qdvhQfu3I4jDr-M4ZOOfEQ.jpg?auto=webp&s=bcee0d4fa64081bb9e59e39d6bee1f66789c9362" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>LED</td>
       <td>LED Strip</td>
       <td>dj</td>
       <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-led-strip-light/2622813</td>
-      <td> Wi-Fi LED 3 metre Strip Light</td>
+      <td>Wi-Fi LED 3 metre Strip Light</td>
       <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I002579-BLISTER-20190624-FOP-HR-min-1024x1024.jpg" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>Outdoor Light</td>
       <td>Outdoor Spot Lights</td>
       <td>dj</td>
       <td>https://www.mirabellagenio.com.au/product-range/mirabella-genio-wi-fi-4-black-spot-light-kit/</td>
-      <td> Wi-Fi 4 Black Spot Light Kit</td>
+      <td>Wi-Fi 4 Black Spot Light Kit</td>
       <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I002848-min-1024x960.jpg" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>N/A</td>
       <td>Icicle Lights</td>
       <td>dj</td>
       <td>https://www.mirabellagenio.com.au/product-range/mirabella-genio-wi-fi-200-led-colour-select-icicle-lights/</td>
-      <td> Wi-Fi 200 LED Colour Select Icicle Lights</td>
-       <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I003175-BOX-20200701-3D-HR-min-1024x1024.jpg" width="200"></td>
-      </tr>
+      <td>Wi-Fi 200 LED Colour Select Icicle Lights</td>
+      <td><img src="https://www.mirabellagenio.com.au/wp-content/uploads/2020/12/I003175-BOX-20200701-3D-HR-min-1024x1024.jpg" width="200"></td>
+    </tr>
     <tr>
       <td>LSC (Action)</td>
       <td>A60 CCT</td>
@@ -168,7 +168,8 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-ledlamp3//</td>
       <td>Cheap Ambiance E27 bulb </td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/75/96/3000272_8712879146254-111.png" width="200"></td>
-     <tr>
+    </tr>
+    <tr>
       <td>LSC (Action)</td>
       <td>RGB e14</td>
       <td>Light</td>
@@ -188,7 +189,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
     </tr>
     <tr>
       <td>LSC (Action)</td>
-      <td> neon ledstrip</td>
+      <td>neon ledstrip</td>
       <td>Light</td>
       <td>dj</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-neon-ledstrip/</td>
@@ -228,7 +229,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>light</td>
       <td>dj</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-filament-ledlamp3/</td>
-      <td> E14 Small filament bulb</td>
+      <td>E14 Small filament bulb</td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/66/12/3001702_8712879146612-111.png" width="200"></td>
     </tr>
     <tr>
@@ -238,7 +239,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>dj</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-led-tuinlamp/</td>
       <td>Cheap RGB Garden pole </td>
-     <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/39/3005364_8712879149088-111_01.png" width="200"></td>
+      <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/39/3005364_8712879149088-111_01.png" width="200"></td>
     </tr>
     <tr>
       <td>LSC (Action)</td>
@@ -260,7 +261,6 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
     </tr>
   </tbody>
 </table>
-
 <h1>Electrician Category</h1>
 <table class="table">
   <thead>
@@ -281,19 +281,19 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Socket</td>
       <td>cz</td>
       <td>https://www.amazon.co.uk/Outlet-Google-Wireless-Control-Required/dp/B0993L89QQ</td>
-      <td> A smart plug</td>
+      <td>A smart plug</td>
       <td><img src="https://m.media-amazon.com/images/I/5189B6WP6OS._AC_SX425_.jpg" alt="Teckin Smart Plug" width="200"></td>
     </tr>
     <tr>
       <td>LSC (Action)</td>
       <td>The model for device (if applicable)</td>
-      <td> Socket </td>
-      <td> cz </td>
+      <td>Socket</td>
+      <td>cz</td>
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-stekker-/</td>
       <td>Cheap Wifi smart socket</td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/79/98/2578685_8712879142782-111.png" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>N/A</td>
       <td>EU WiFi Plug</td>
       <td>Socket</td>
@@ -302,8 +302,8 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>16A wifi smart socket with power monitoring (Note: uses non-ESP chipset, cannot be flashed to ESPhome or Tasmota)</td>
       <td><img src="https://ae01.alicdn.com/kf/H807c59e9cae447aea9a3c87a76f7b87aF/Smart-Plug-WiFi-Socket-EU-16A-Power-Monitor-Timing-Function-Tuya-SmartLife-APP-Control-Works-With.jpg_Q90.jpg" width="200"></td>
     </tr>
-    </tbody>
-    </table>
+  </tbody>
+</table>
 <h1>Security & Sensors</h1>
 <table class="table">
   <thead>
@@ -333,10 +333,10 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>pir</td>
       <td>PIR Detector</td>
       <td>https://www.ebay.es/itm/324235275970</td>
-      <td> Zigbee PIR Detector</td>
+      <td>Zigbee PIR Detector</td>
       <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfQhV9KeujQGyBY29iklZbM3aT0PH1wH4Jg&usqp=CAU<" width="200"></td>
     </tr>
-      <tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>N/A</td>
       <td>Door/Window Sensor</td>
@@ -354,23 +354,17 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Smart Wi-Fi Motion Sensor</td>
       <td><img src="https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/3/42769453-2-f.jpg" width="200"></td>
     </tr>
-     <tr>
+    <tr>
       <td>Mirabella Genio</td>
       <td>N/A</td>
       <td>Socket</td>
       <td>pc</td>
       <td>https://www.kmart.com.au/product/mirabella-genio-wi-fi-double-power-plug-with-usb-ports/3294803</td>
-      <td> Wi-Fi Double Power Plug with USB ports</td>
+      <td>Wi-Fi Double Power Plug with USB ports</td>
       <td><img src="https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/f/5/42905875-1-f.jpg" width="200"></td>
     </tr> 
   </tbody>
 </table>
-
-
-
-
-
-
 <h1>Energy</h1>
 <table class="table">
   <thead>
