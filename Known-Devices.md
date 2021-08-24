@@ -276,6 +276,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
   </thead>
   <tbody>
     <tr>
+      <td>Gosund</td>
+      <td>UP111</td>
+      <td>Socket</td>
+      <td>cz</td>
+      <td>https://www.amazon.co.uk/dp/B0983HP45C + https://www.alibaba.com/product-detail/TUV-Certificate-Tuya-Smart-Wifi-UK_1600197285403.html</td>
+      <td>13A Smart Power Monitoring Plug</td>
+      <td><img src="https://templates.blakadder.com/assets/images/gosund_UP111.jpg" alt="Gosund Smart Plug" width="200"></td>
+    </tr>
+    <tr>
       <td>Teckin</td>
       <td>WiFi Plug</td>
       <td>Socket</td>
