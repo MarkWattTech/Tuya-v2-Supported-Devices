@@ -99,6 +99,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></td>
     </tr>
     <tr>
+      <td>Novostella</td>
+      <td>Blaze Smart FloodLights</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.com/dp/B08WX4QN63</td>
+      <td>25 Watt Smart Floodlight</td>
+      <td><img src="https://m.media-amazon.com/images/I/714fB+Okd+L._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
+    </tr>
+    <tr>
       <td>LVWIT</td>
       <td>A60</td>
       <td>Light</td>
