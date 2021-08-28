@@ -65,6 +65,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
     </tr>
     <tr>
+      <td>OliveTech</td>
+      <td>OTXX8020</td>
+      <td>Essential Oil Diffuser</td>
+      <td></td>
+      <td>https://www.amazon.com/gp/product/B07QF8VP2Z</td>
+      <td>WIFI Essential Oil Diffuser</td>
+      <td><img src="https://m.media-amazon.com/images/I/71sB+Ecl2cL._AC_SL1500_.jpg" width="200"></td>
+    </tr>
+    <tr>
       <td>Bagotte</td>
       <td>Bagotte BG800</td>
       <td>Robot Vacuum</td>
