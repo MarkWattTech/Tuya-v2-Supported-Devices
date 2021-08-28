@@ -112,7 +112,9 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Blaze Smart FloodLights</td>
       <td>Light</td>
       <td>dj</td>
-      <td>https://www.amazon.com/dp/B08WX4QN63</td>
+      <td>https://www.amazon.com/dp/B08WX4QN63 </br>
+          https://www.novostella.net/products/novostella-blaze-smart-flood-light-25w
+      </td>
       <td>25 Watt Smart Floodlight</td>
       <td><img src="https://m.media-amazon.com/images/I/714fB+Okd+L._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
     </tr>
