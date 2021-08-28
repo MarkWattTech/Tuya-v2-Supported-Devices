@@ -67,10 +67,10 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
     <tr>
       <td>OliveTech</td>
       <td>OTXX8020</td>
-      <td>Essential Oil Diffuser</td>
+      <td>Aromatherapy Diffuser</td>
       <td></td>
       <td>https://www.amazon.com/gp/product/B07QF8VP2Z</td>
-      <td>WIFI Essential Oil Diffuser</td>
+      <td>WIFI Essential Oil Aromatherapy Diffuser</td>
       <td><img src="https://m.media-amazon.com/images/I/71sB+Ecl2cL._AC_SL1500_.jpg" width="200"></td>
     </tr>
     <tr>
