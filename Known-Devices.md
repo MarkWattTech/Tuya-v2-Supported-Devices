@@ -90,6 +90,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
   </thead>
   <tbody>
     <tr>
+      <td>UALAU</td>
+      <td>Dreamcolor LED Strip</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.com/dp/B087M25WMZ</td>
+      <td>RGB IC LED Strip</td>
+      <td><img src="https://m.media-amazon.com/images/I/81rPzhWUR6L._AC_SL1500_.jpg" alt="UALAU Dreamcolor" width="200"></td>
+    </tr>
+    <tr>
       <td>Novostella</td>
       <td>B22</td>
       <td>Light</td>
@@ -113,7 +122,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>Light</td>
       <td>dj</td>
       <td>https://www.amazon.com/dp/B08TT548JL</td>
-      <td>LED LED Fairy String Lights</td>
+      <td>LED Fairy String Lights</td>
       <td><img src="https://m.media-amazon.com/images/I/8143VOUkZQL._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
     </tr>
     <tr>
