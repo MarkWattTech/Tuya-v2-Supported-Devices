@@ -108,6 +108,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td><img src="https://m.media-amazon.com/images/I/714fB+Okd+L._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
     </tr>
     <tr>
+      <td>Nobent</td>
+      <td>Fairy String Lights</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.com/dp/B08TT548JL</td>
+      <td>LED LED Fairy String Lights</td>
+      <td><img src="https://m.media-amazon.com/images/I/8143VOUkZQL._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
+    </tr>
+    <tr>
       <td>LVWIT</td>
       <td>A60</td>
       <td>Light</td>
