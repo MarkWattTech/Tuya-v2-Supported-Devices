@@ -65,6 +65,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
     </tr>
     <tr>
+      <td>OliveTech</td>
+      <td>OTXX8020</td>
+      <td>Aromatherapy Diffuser</td>
+      <td></td>
+      <td>https://www.amazon.com/gp/product/B07QF8VP2Z</td>
+      <td>WIFI Essential Oil Aromatherapy Diffuser</td>
+      <td><img src="https://m.media-amazon.com/images/I/71sB+Ecl2cL._AC_SL1500_.jpg" width="200"></td>
+    </tr>
+    <tr>
       <td>Bagotte</td>
       <td>Bagotte BG800</td>
       <td>Robot Vacuum</td>
@@ -90,6 +99,15 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
   </thead>
   <tbody>
     <tr>
+      <td>UALAU</td>
+      <td>Dreamcolor LED Strip</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.com/dp/B087M25WMZ</td>
+      <td>RGB IC LED Strip</td>
+      <td><img src="https://m.media-amazon.com/images/I/81rPzhWUR6L._AC_SL1500_.jpg" alt="UALAU Dreamcolor" width="200"></td>
+    </tr>
+    <tr>
       <td>Novostella</td>
       <td>B22</td>
       <td>Light</td>
@@ -97,6 +115,26 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.amazon.co.uk/gp/product/B07DN4NLKM/</td>
       <td>A full RBG B22 bulb</td>
       <td><img src="https://m.media-amazon.com/images/I/61fm7bTog+L._AC_SS450_.jpg" alt="Novostella Bulb" width="200"></td>
+    </tr>
+    <tr>
+      <td>Novostella</td>
+      <td>Blaze Smart FloodLights</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.com/dp/B08WX4QN63 </br>
+          https://www.novostella.net/products/novostella-blaze-smart-flood-light-25w
+      </td>
+      <td>25 Watt Smart Floodlight</td>
+      <td><img src="https://m.media-amazon.com/images/I/714fB+Okd+L._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
+    </tr>
+    <tr>
+      <td>Nobent</td>
+      <td>Fairy String Lights</td>
+      <td>Light</td>
+      <td>dj</td>
+      <td>https://www.amazon.com/dp/B08TT548JL</td>
+      <td>LED Fairy String Lights</td>
+      <td><img src="https://m.media-amazon.com/images/I/8143VOUkZQL._AC_SL1500_.jpg" alt="Novostella Blaze" width="200"></td>
     </tr>
     <tr>
       <td>LVWIT</td>
