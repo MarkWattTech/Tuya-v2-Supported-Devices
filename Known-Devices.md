@@ -58,6 +58,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Links</th>
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
+      <th scope="col">Added On MWT</th>
     </tr>
   </thead>
   <tbody>
@@ -69,6 +70,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.zemismart.com/products/m515egb/</td>
       <td>WiFi controlled Blind motor</td>
       <td><img src="https://www.zemismart.com/u_file/2004/products/17/d73d3d0838.jpg.640x640.jpg" alt="Zemismart Blind Motor" width="200"></a></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
     <tr>
       <td>OliveTech</td>
@@ -78,6 +80,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.amazon.com/gp/product/B07QF8VP2Z</td>
       <td>WIFI Essential Oil Aromatherapy Diffuser</td>
       <td><img src="https://m.media-amazon.com/images/I/71sB+Ecl2cL._AC_SL1500_.jpg" width="200"></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
     <tr>
       <td>Bagotte</td>
