@@ -25,6 +25,8 @@
 # View Known Compatible Device List
 <h2> <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Known-Devices.md" >Show me the List!</a></h2>
 &nbsp;
+<h2> <a href="https://markwatttech.com/index.php/tuya-v2-supported-products/" >Show me the Pretty List! (Work in Progress)</a></h2>
+&nbsp;
 
 
 <a name="products"></a>
@@ -43,8 +45,10 @@
 * <a href="mailto:markwatttech@gmail.com">Email Me</a> the product you want adding with all of the needed info (see below)
 * <b>Create a pull request</b> directly adding your product - <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/compare">Create PR</a>
 * <b>Create an issue</b> using the new product template - <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/issues/new/choose">Create Issue</a>
+* <b>SIMPLE FORM</b> using the new simple form - <a href="https://markwatttech.com/index.php/tuva-v2-request/">Fill in the Form</a>
 
 <p> Creating an issue with the New PBT Product Template will be the quickest. You will just need to enter the needed info and press submit.</p>
+<p> I'm currently working on the supported products page over at MarkWattTech.com.</p>
 &nbsp;
 
 ## Submit Step By Step
