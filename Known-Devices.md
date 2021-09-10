@@ -27,6 +27,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Links</th>
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
+      <th scope="col">Added On MWT</th>
     </tr>
   </thead>
   <tbody>
@@ -38,6 +39,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.amazon.co.uk/dp/B095HTVV36</td>
       <td>Air Conditioning Unit</td>
       <td><img src="https://www.igenix.co.uk/wp-content/uploads/2021/05/IG9909WIFI_A.jpg" width="200"></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
   </tbody>
 </table>
@@ -95,6 +97,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <th scope="col">Product Links</th>
       <th scope="col">Product Description</th>
       <th scope="col">Image of Product</th>
+      <th scope="col">Added On MWT</th>
     </tr>
   </thead>
   <tbody>
@@ -296,6 +299,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.amazon.it/Intelligence-Compatibile-Avatar-Controls-Multicolore/dp/B07W6Z6KPG</td>
       <td>A RGBW B14 bulb</td>
       <td><img src="https://www.avatarcontrols.com/upfile/2019/07/20190709175532_974.jpg" width="200"></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
   </tbody>
 </table>
