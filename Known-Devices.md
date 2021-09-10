@@ -145,7 +145,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td><img src="https://cdn.shopify.com/s/files/1/0257/5790/9044/products/51KDIzDdR2L._AC_SL1300_c92de931-bbb3-4d69-bb7d-f444be165486_997x1066.jpg" width="200"></td>
     </tr>
     <tr>
-      <td>Mekury </td>
+      <td>Merkury </td>
       <td>Smart Wi-Fi Bulb - White</td>
       <td>Lights</td>
       <td>dj</td>
