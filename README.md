@@ -24,7 +24,6 @@
 
 # View Known Compatible Device List
 <h2> <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Known-Devices.md" >Show me the List!</a></h2>
-&nbsp;
 <h2> <a href="https://markwatttech.com/index.php/tuya-v2-supported-products/" >Show me the Pretty List! (Work in Progress)</a></h2>
 &nbsp;
 
