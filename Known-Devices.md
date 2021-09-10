@@ -16,6 +16,10 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
 * <p> Currently I am manually adding each one and am working on it in small bursts. If you want to take the time to manually create a Pull Request it will be added much quicker as I can review it and pull it in. Your name also gets added to the contributors by GitHub which is also a perk!</p>
 &nbsp;
 
+## UPDATE 11/09/21
+* <p> I have started Migrating products over to : https://markwatttech.com/index.php/tuya-v2-supported-products/</p>
+&nbsp;
+
 <h1>Large Home Appliances</h1>
 <table class="table">
   <thead>
