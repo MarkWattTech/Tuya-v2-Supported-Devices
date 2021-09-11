@@ -261,6 +261,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-filament-ledlamp2//</td>
       <td>E27 Small Filament bulb </td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/28/58/3001686_8712879146605-111.png" width="200"></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
     <tr>
       <td>LSC (Action)</td>
@@ -270,6 +271,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-led-spot/</td>
       <td>Cheap RGB smart spot</td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/26/37/3005365_8712879149095-111_01.png" width="200"></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
     <tr>
       <td>LSC (Action)</td>
@@ -297,6 +299,7 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>https://www.action.com/nl-nl/p/lsc-smart-connect-slimme-filament-ledlamp4/</td>
       <td>Big RGB Bulb </td>
       <td><img src="https://www.action.com/globalassets/cmsarticleimages/00/25/3001700_8712879146629-111.png" width="200"></td>
+      <td><img src="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/blob/main/Images/tick.png" width="200"></td>
     </tr>
     <tr>
       <td>Avatar controls</td>
