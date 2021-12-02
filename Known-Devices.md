@@ -91,6 +91,16 @@ Below is a list of known working PBT (Powered By Tuya) products that are compati
       <td>SA cheap Robot vacuum</td>
       <td><img src="https://www.bagotte.com/upload/portal/20191219/6fcd32c233fa09f2d2345839c3d3240c.jpg" width="200"></td>
     </tr>
+    <tr>
+      <td>ASAKUKI</td>
+      <td>700ml</td>
+      <td>Aromatherapy Diffuser</td>
+      <td></td>
+      <td>https://www.amazon.co.uk/gp/product/B07L847K9W/</td>
+      <td>WIFI Essential Oil Aromatherapy Diffuser</td>
+      <td><img src="https://m.media-amazon.com/images/I/714KNe9xhvL._AC_SY450_.jpg" width="200"></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 <h1>Lighting</h1>
