@@ -27,6 +27,10 @@
 <h2> <a href="https://markwatttech.com/index.php/tuya-v2-supported-products/" >Show me the Pretty List! (Work in Progress)</a></h2>
 &nbsp;
 
+```diff
+-This Repo is No Longer being UPDATED! - The idea was for Tuya to create and maintain something like this.
+```
+
 
 <a name="products"></a>
 # Submitting PBT Products
@@ -39,7 +43,7 @@
 &nbsp;
 
 ## How To Submit PBT Products
-<p> Their are <b>3</b> ways you can submit a PBT issue.</p>
+<b>This is no longer being updated</b>
 
 * <a href="mailto:markwatttech@gmail.com">Email Me</a> the product you want adding with all of the needed info (see below)
 * <b>Create a pull request</b> directly adding your product - <a href="https://github.com/MarkWattTech/Tuya-v2-Supported-Devices/compare">Create PR</a>
@@ -107,6 +111,12 @@
 &nbsp;
 <a name="about"></a>
 # About This Project
+
+
+## Why isn't this being maintained ?
+<p>This is a lot of work for me to manage. I initially created this and a website to dfemo to Tuya, for them to create and manage. But it isn't something they are interested in. If you would like to create or takeover this, I am happy to share any of the collected info on devices that work in Home Assistant. Cheers.</p>
+</br>
+
 ## What is this Project ?
 <p>It's just a place to capture PBT product that are working with Tuya-v2 and Home Assistant to help user check if their devices are compatible, and also to help with buying new devices. The idea is to just list all Tuya devices that are currently working with the v2 integration and Home Assistant.</p>
 
@@ -119,11 +129,6 @@
 ## Why is it on GitHub?
 <p>I'm currently working on my New Website which I will port this all over too in the future. But for now Git will work well for just simply displaying a list of different products, and allowing users to contribute to the list. When my site is ready I will link to it on this project.</p>
 </br>
-
-## Is this supported by Tuya?
-<p>I have been speaking to Tuya about creating something like this. Initially a <a href="https://github.com/tuya/tuya-home-assistant/discussions/309" target="_blank">Discussion</a> was created on the official Tuya-v2 Git, but it didn't really take off. I suggested a page sort of like this, and Tuya was happy for me to create this and they would direct to it.</p>
-
-<p><b> This list is now being directed to by Tuya! </b></p>
 </br>
 
 <a name="tuya"></a>
@@ -167,8 +172,6 @@
 - [Instagram](https://www.instagram.com/MarkWattTech/)
 - [Reddit](https://www.reddit.com/r/MarkWattTech/)
 
-## Why am I making this?
-<p> I have a passion for smart home and tech and enjoy helping others. It's not everyday a big tech company decideds to dedicate resources to developing an integration for an open source project with the help of the community, and I just wanted to be part of this and to help make the integration the best it can be. I also started off my Smart Home journey with some simple Tuya devices and prior to using HA I was writing my own tools that used Tuyas API to do things like turn my lights on and off. </p>
 	
 &nbsp;
 	
